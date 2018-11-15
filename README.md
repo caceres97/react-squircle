@@ -1,6 +1,6 @@
 # react-squircle
 
-The wasy way to make a Squircle in [React Js](https://reactjs.org/).
+The easy way to make a Squircle in [React Js](https://reactjs.org/).
 
 
 # Installation
